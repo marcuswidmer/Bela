@@ -24,7 +24,7 @@ The Bela software is distributed under the GNU Lesser General Public License
 #include <Bela.h>
 #include <cmath>
 
-float gFrequency = 440.0;
+float gFrequency = 1000.0;
 float gPhase;
 float gInverseSampleRate;
 
