@@ -58,7 +58,10 @@ extern "C"
 #include <stdint.h>
 #include <unistd.h>
 #include <stdbool.h>
+#include <stdlib.h>
 #include <stdio.h>
+#include <math.h>
+
 // these functions are currently provided by xenomai.
 // We put these declarations here so we do not have to include
 // Xenomai specific files
